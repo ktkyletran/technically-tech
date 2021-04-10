@@ -19,6 +19,7 @@ label {
   border-radius: 3px;
   resize: none;
   overflow: auto;
+  color: black;
 }
 
 .current-blogs {
@@ -41,7 +42,7 @@ label {
 }
 
 #blog-name {
- color: white;
+ color: black;
  font-weight: 500;
 }
 
