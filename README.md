@@ -3,6 +3,7 @@
 <h1>Table of Contents:</h1>
 <ul>
   <li><a href="#description">Description</a></li>
+  <li><a href="#deploy">Deployed Link</a></li>
   <li><a href="#installation">Installation</a></li>
   <li><a href="#usage">Usage</a></li>
   <li><a href="#license">License</a></li>
@@ -11,6 +12,11 @@
 </ul>
 <h1 id="description">Description:</h1>
 Technically Tech is a CMS-style blog site where aspiring, current, and former developers can discuss technical concepts, recent advancements, and new technologies.
+
+<h1 id="installation">Deployed Link</h1>
+The following link will redirect to the deployed version on Heroku.
+
+<a href="https://technically-tech.herokuapp.com/login">Technically Tech</a>
 
 <h1 id="installation">Installation</h1>
 
