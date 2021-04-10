@@ -33,7 +33,10 @@ Run `npm run seed` in the terminal to seed the database. Next, run `npm start` t
 <p>Employee Tracker is licensed by MIT</p>
 
 <h1 id="tests">Future Development</h1>
-<p>Improve UI</p>
+
+- Improve UI
+- Add commenting
+
 <h1 id="questions">Questions</h1>
 <p>Please visit the project's GitHub page and email for any questions.</p>
 <ul>
