@@ -13,7 +13,7 @@
 <h1 id="description">Description:</h1>
 Technically Tech is a CMS-style blog site where aspiring, current, and former developers can discuss technical concepts, recent advancements, and new technologies.
 
-<h1 id="installation">Deployed Link</h1>
+<h1 id="deploy">Deployed Link</h1>
 The following link will redirect to the deployed version on Heroku.
 
 <a href="https://technically-tech.herokuapp.com/login" target="_blank">Technically Tech</a>
