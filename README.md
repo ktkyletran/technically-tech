@@ -4,6 +4,7 @@
 <ul>
   <li><a href="#description">Description</a></li>
   <li><a href="#deploy">Deployed Link</a></li>
+  <li><a href="#tech">Tech Stack</a></li>
   <li><a href="#installation">Installation</a></li>
   <li><a href="#usage">Usage</a></li>
   <li><a href="#license">License</a></li>
@@ -17,6 +18,18 @@ Technically Tech is a CMS-style blog site where aspiring, current, and former de
 The following link will redirect to the deployed version on Heroku.
 
 <a href="https://technically-tech.herokuapp.com/login" target="_blank">Technically Tech</a>
+
+![tech](https://user-images.githubusercontent.com/72889560/117702388-0d354780-b18e-11eb-8aa0-a4293e174c9e.gif)
+
+<h1 id="tech">Tech Stack:</h1>
+
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Sequelize
+- Handlebars.js
+- APIs
 
 <h1 id="installation">Installation</h1>
 
